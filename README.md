@@ -46,6 +46,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-FF5F00?style=for-the-badge&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-00C9A7?style=for-the-badge&logo=semtech&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-BB2649?style=for-the-badge&logo=espressif&logoColor=white)
 
 
 ---
