@@ -1,8 +1,19 @@
-# 👋 Xin chào, mình là Đỗ Quốc Duy
+<h1 align="center">
+  👋 Xin chào, mình là <span style="color:#f39c12;">Đỗ Quốc Duy</span>!
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-ESP32-blue?style=flat-square&logo=espressif" />
+  <img src="https://img.shields.io/badge/Robotics-ROS2-green?style=flat-square&logo=ros" />
+  <img src="https://img.shields.io/badge/Embedded-MicroPython-orange?style=flat-square&logo=python" />
+</p>
+
+---
 
 ## 🚀 Giới thiệu bản thân
 
-Mình là một sinh viên/nhà phát triển đam mê **IoT**, **Hệ thống nhúng**, và **Robotics**. Mình yêu thích việc xây dựng các giải pháp thông minh với các thiết bị như **ESP32**, **ESP8266**, **Raspberry Pi**, kết hợp cảm biến, camera và trí tuệ nhân tạo để phục vụ đời sống và học tập.
+Mình là một sinh viên/nhà phát triển đam mê **IoT**, **Hệ thống nhúng**, và **Robotics**.  
+Mình yêu thích việc xây dựng các giải pháp thông minh với các thiết bị như **ESP32**, **ESP8266**, **Raspberry Pi**, kết hợp cảm biến, camera và trí tuệ nhân tạo để phục vụ đời sống và học tập.
 
 ---
 
@@ -17,7 +28,7 @@ Mình là một sinh viên/nhà phát triển đam mê **IoT**, **Hệ thống n
 
 ---
 
-## 🔍 Dự án tiêu biểu
+## 🌟 Dự án tiêu biểu
 
 ### 📊 Hệ thống giám sát đồng hồ nước & môi trường
 - Dùng **ESP32-CAM** nhận diện chỉ số đồng hồ và gửi dữ liệu lên **ThingsBoard**.
@@ -38,9 +49,12 @@ Mình là một sinh viên/nhà phát triển đam mê **IoT**, **Hệ thống n
 ## 📫 Liên hệ với mình
 
 - 📧 Email: [doquocduyqn@gmail.com](mailto:doquocduyqn@gmail.com)  
-- 🐙 GitHub: [github.com/doquocduy](https://github.com/doquocduy) *(đổi nếu khác)*
-- 🔗 LinkedIn: *(bạn có thể bổ sung nếu cần)*
+- 🐙 GitHub: [github.com/doquocduy](https://github.com/doquocduy) *(cập nhật nếu cần)*
+- 🔗 LinkedIn: *(thêm nếu có)*
 
 ---
 
-> "Mỗi dòng code là một bước tiến đến tương lai thông minh hơn." — Đỗ Quốc Duy
+<p align="center">
+  <i>"Mỗi dòng code là một bước tiến đến tương lai thông minh hơn."</i>  
+  <br>— <span style="color:#e74c3c;"><b>Đỗ Quốc Duy</b></span>
+</p>
