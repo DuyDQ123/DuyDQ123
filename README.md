@@ -1,9 +1,9 @@
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
 <h1 align="center">Hi 👋, I'm Đỗ Quốc Duy</h1>
 
 <h3 align="center">🎓 I’m a passionate developer focused on IoT, Embedded Systems, and Robotics 🚀</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+
 
 ## 👨‍💻 About Me
 
