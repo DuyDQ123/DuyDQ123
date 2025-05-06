@@ -30,7 +30,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python  
 <code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C/C++  
 <code><img height="20" src="https://img.icons8.com/nolan/96/chip.png"></code> Embedded Systems  
-<code><img height="20" src="https://img.icons8.com/?size=100&id=UVgq1XxeeTrS&format=png&color=000000"></code> IoT (ESP32 / ESP8266)  
+<code><img height="20" src="https://img.icons8.com/?size=100&id=osQ0ttYWdlt-&format=png&color=000000"></code> IoT (ESP32 / ESP8266)  
 <code><img height="20" src="https://img.icons8.com/nolan/96/wifi.png"></code> MQTT / HTTP / Blynk / ThingsBoard  
 <code><img height="20" src="https://img.icons8.com/nolan/96/linux.png"></code> Linux, Ubuntu, WSL2  
 <code><img height="20" src="https://img.icons8.com/nolan/96/robot-2.png"></code> ROS 2, Gazebo  
