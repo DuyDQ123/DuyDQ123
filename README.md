@@ -43,7 +43,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=DuyDQ123&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DuyDQ123's GitHub Stats">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DuyDQ123&count_private=true&theme=radical" alt="DuyDQ123's GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DuyDQ123&theme=dark)](https://git.io/streak-stats)
 
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyDQ123&count_private=true&theme=radical" alt="Top Languages" />
 
