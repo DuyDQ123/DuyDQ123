@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Đỗ Quốc Duy</h1>
 
-<h3 align="center">🎓 I’m a passionate developer focused on IoT, Embedded Systems, and Robotics 🚀</h3><img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
-
+<h3 align="center">🎓 I’m a passionate developer focused on IoT, Embedded Systems, and Robotics 🚀</h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
 ## 👨‍💻 About Me
 
@@ -53,15 +53,7 @@
 ![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-BB2649?style=for-the-badge&logo=espressif&logoColor=white)
 
 
----
 
-## 🏆 GitHub Profile Trophy
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=duydq123" alt="duydq123" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
