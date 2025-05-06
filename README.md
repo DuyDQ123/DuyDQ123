@@ -22,6 +22,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
+<p align="left">
+  <a href="https://gmail.com/đỗ quốc duy" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
