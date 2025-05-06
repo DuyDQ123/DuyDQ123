@@ -12,7 +12,7 @@
 - 📫 Reach me: **doquocduyqn@gmail.com**
 - 👨‍💻 Projects: [GitHub Profile](https://github.com/duydq123)
 
----
+
 
 ## 🌐 Connect with Me:
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +23,6 @@
 </p>
 
 
----
 
 ## 🛠️ Languages & Tools:
 
@@ -69,6 +68,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DuyDQ123" alt="GitHub Streak" />
 </p>
 
----
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duydq123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
