@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DuyDQ123"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DuyDQ123&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
