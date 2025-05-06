@@ -27,15 +27,43 @@
 
 ### 🧠 Skills & Tools
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python  
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C/C++  
-<code><img height="20" src="https://img.icons8.com/nolan/96/chip.png"></code> Embedded Systems  
-<code><img height="20" src="https://img.icons8.com/?size=100&id=osQ0ttYWdlt-&format=png&color=000000"></code> IoT (ESP32 / ESP8266)  
-<code><img height="20" src="https://img.icons8.com/nolan/96/wifi.png"></code> MQTT / HTTP / Blynk / ThingsBoard  
-<code><img height="20" src="https://img.icons8.com/nolan/96/linux.png"></code> Linux, Ubuntu, WSL2  
-<code><img height="20" src="https://img.icons8.com/nolan/96/robot-2.png"></code> ROS 2, Gazebo  
-<code><img height="20" src="https://img.icons8.com/nolan/96/camera.png"></code> ESP32-CAM, OpenCV, YOLOv8  
-<code><img height="20" src="https://img.icons8.com/nolan/96/radar.png"></code> LoRa SX1278, Long-range IoT
+<!-- Core Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
+
+<!-- Embedded Systems -->
+<img src="https://img.icons8.com/fluency/48/microchip.png" height="30" alt="Embedded"/>
+
+<!-- IoT (ESP32/ESP8266) -->
+<img src="https://img.icons8.com/fluency/48/internet-of-things.png" height="30" alt="IoT"/>
+
+<!-- LoRa -->
+<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-lora-telecommunication-flatart-icons-outline-flatarticons.png" height="30" alt="LoRa"/>
+
+<!-- ESP32-CAM -->
+<img src="https://img.icons8.com/fluency/48/surveillance.png" height="30" alt="ESP32-CAM"/>
+
+<!-- MQTT -->
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-mqtt-internet-of-things-soft-fill-soft-fill-juicy-fish.png" height="30" alt="MQTT"/>
+
+<!-- ThingsBoard / Blynk -->
+<img src="https://img.icons8.com/external-outline-juicy-fish/60/external-dashboard-iot-outline-outline-juicy-fish.png" height="30" alt="ThingsBoard"/>
+
+<!-- ROS2 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ROS 2"/>
+
+<!-- Gazebo -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gazebo_logo.png/600px-Gazebo_logo.png" height="30" alt="Gazebo"/>
+
+<!-- Ubuntu / Linux / WSL2 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu"/>
+
+<!-- OpenCV / YOLOv8 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV"/>
+<img src="https://img.icons8.com/external-wanicon-flat-wanicon/64/external-ai-artificial-intelligence-wanicon-flat-wanicon.png" height="30" alt="YOLOv8"/>
+
 
 ---
 
