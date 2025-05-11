@@ -13,7 +13,7 @@
 
 
 
-## 🌐 Connect with Me:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C4%91%E1%BB%97-qu%E1%BB%91c-duy-833b2534a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duy" height="30" width="40" /></a>
@@ -22,6 +22,9 @@
 </p>
 
 
+</br>
+</br>
+</br>
 
 ## 🛠️ Languages & Tools:
 
